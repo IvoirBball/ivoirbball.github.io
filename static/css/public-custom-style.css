@@ -1,0 +1,15 @@
+.nav-btn {
+    border: solid 1px !important;
+    color: #e43c5c;
+}
+
+.qualifier-info {
+    font-size: large;
+}
+
+.close-modal {
+    color: #000;
+    background: transparent;
+    font-size: 1.3rem;
+    font-weight: bold;
+}

@@ -4,8 +4,32 @@
     padding: 1.5rem;
 }
 
+.regular-form {
+    background: white;
+    margin-top: 50px;
+    margin-right: 0;
+    margin-left: 0;
+}
+
 .btn-add {
     margin-left: auto;
     margin-right: 0;
 }
 
+.selected-btn {
+    background-color: white;
+    color: #4e73df;
+}
+
+.btn {
+    font-weight: bold;
+}
+
+span {
+    font-weight: bold;
+}
+
+.nav-btn {
+    border: solid 1px !important;
+    color: #e43c5c;
+}
